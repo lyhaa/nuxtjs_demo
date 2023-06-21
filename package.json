@@ -19,7 +19,7 @@
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
     "iview": "^3.1.5",
-    "nuxt": "^2.0.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@ava/babel": "^1.0.0",
